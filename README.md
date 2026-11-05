@@ -5,7 +5,6 @@ Aplicación de escritorio para Windows, desarrollada por **Cellcom Technology** 
 
 Funciona 100 % de forma local sobre una base de datos Firebird: no depende de internet para vender.
 
-> Nombre interno del proyecto y del código: `CellcomPOS`.
 
 ---
 
