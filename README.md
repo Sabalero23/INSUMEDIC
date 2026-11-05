@@ -9,12 +9,6 @@ Funciona 100 % de forma local sobre una base de datos Firebird: no depende de in
 
 ---
 
-## Descripción corta (para el campo "About" del repositorio)
-
-> ERP y punto de venta de escritorio (WPF + Firebird) para insumos médicos, ortopedia y alquiler de equipos: ventas, stock con vencimientos, compras, caja, inventario, etiquetas, ganancias y facturación ARCA.
-
-**Topics sugeridos:** `erp` `pos` `wpf` `dotnet` `csharp` `firebird` `windows` `inventario` `argentina` `arca`
-
 ---
 
 ## Qué hace
